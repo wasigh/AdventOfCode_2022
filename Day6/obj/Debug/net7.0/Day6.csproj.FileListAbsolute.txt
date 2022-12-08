@@ -1,0 +1,15 @@
+C:\Projects\AdventOfCode_2022\Day6\bin\Debug\net7.0\Day6.exe
+C:\Projects\AdventOfCode_2022\Day6\bin\Debug\net7.0\Day6.deps.json
+C:\Projects\AdventOfCode_2022\Day6\bin\Debug\net7.0\Day6.runtimeconfig.json
+C:\Projects\AdventOfCode_2022\Day6\bin\Debug\net7.0\Day6.dll
+C:\Projects\AdventOfCode_2022\Day6\bin\Debug\net7.0\Day6.pdb
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\Day6.csproj.AssemblyReference.cache
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\Day6.AssemblyInfoInputs.cache
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\Day6.AssemblyInfo.cs
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\Day6.csproj.CoreCompileInputs.cache
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\Day6.dll
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\refint\Day6.dll
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\Day6.pdb
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\Day6.genruntimeconfig.cache
+C:\Projects\AdventOfCode_2022\Day6\obj\Debug\net7.0\ref\Day6.dll
