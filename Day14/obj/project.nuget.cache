@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MK9supVD5TzY9oWcxx+3ouvY4M+CUZjIpmbDLdwKimEdzuj9FO2r313B6YDqpAn28dILUxQj+Olhnp5c+kagGA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AdventOfCode_2022\\Day14\\Day14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hansv\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\hansv\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
